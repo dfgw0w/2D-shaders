@@ -43,8 +43,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _progress: 0
-    - _size: 0.02
-    - _strength: 0.5
+    - _size: 0.05
+    - _strength: 0.2
     m_Colors:
     - _origin: {r: 0.5, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
